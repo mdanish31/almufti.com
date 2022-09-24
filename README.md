@@ -1,1 +1,1 @@
-# almufti.com
+# almufti.github.io
